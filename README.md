@@ -85,4 +85,4 @@ dx run app-eggd_GATKgCNV_call/ \
 The app requires a tar.gz of the Docker image for GATK 4.2+ as an input. Htslib and bedtools are bundled with the app as app assets.
 Deb files for [parallel](https://ftp.gnu.org/gnu/parallel/) and its dependency [sysstat](http://sebastien.godard.pagesperso-orange.fr/download.html) are bundled with the app in resources/home/dnanexus/.
 
-### This app was made by East GLH
+### This app was not made by East GLH
